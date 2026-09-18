@@ -65,9 +65,9 @@ try {
       console.log(JSON.stringify(entry));
     }
 } finally {
-  await chrome.kill();
   await fs.writeFile(
     'reports/lighthouse-summary.json',
     JSON.stringify({ date: new Date().toISOString(), base, results }, null, 2),
   );
+  await chrome.kill().catch((error) => console.warn('Reports saved; temporary browser cleanup failed:', error.code));
 }

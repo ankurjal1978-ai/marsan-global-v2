@@ -1,0 +1,7 @@
+.next
+.next-dev
+node_modules
+reports
+.git
+scripts
+*.tsbuildinfo
