@@ -1,0 +1,87 @@
+{
+  "ankur.jpg": {
+    "src": "/assets/ankur.jpg.webp",
+    "width": 900,
+    "height": 706
+  },
+  "favicon.png": {
+    "src": "/assets/favicon.png.webp",
+    "width": 900,
+    "height": 900
+  },
+  "kate.jpg": {
+    "src": "/assets/kate.jpg.webp",
+    "width": 900,
+    "height": 913
+  },
+  "logo-dark.png": {
+    "src": "/assets/logo-dark.png.webp",
+    "width": 900,
+    "height": 900
+  },
+  "logo.png": {
+    "src": "/assets/logo.png.webp",
+    "width": 900,
+    "height": 900
+  },
+  "opengraph.jpg": {
+    "src": "/assets/opengraph.jpg.webp",
+    "width": 1200,
+    "height": 675
+  },
+  "sandeep.jpg": {
+    "src": "/assets/sandeep.jpg.webp",
+    "width": 887,
+    "height": 741
+  },
+  "santosh.jpeg": {
+    "src": "/assets/santosh.jpeg.webp",
+    "width": 900,
+    "height": 1272
+  },
+  "wordmark-dark.png": {
+    "src": "/assets/wordmark-dark.png.webp",
+    "width": 900,
+    "height": 178
+  },
+  "wordmark-transparent.png": {
+    "src": "/assets/wordmark-transparent.png.webp",
+    "width": 900,
+    "height": 178
+  },
+  "img/client_1.webp": {
+    "src": "/assets/img/client_1.webp.webp",
+    "width": 428,
+    "height": 384
+  },
+  "img/client_2.png": {
+    "src": "/assets/img/client_2.png.webp",
+    "width": 204,
+    "height": 192
+  },
+  "img/client_3.png": {
+    "src": "/assets/img/client_3.png.webp",
+    "width": 382,
+    "height": 182
+  },
+  "img/client_4.jpeg": {
+    "src": "/assets/img/client_4.jpeg.webp",
+    "width": 708,
+    "height": 275
+  },
+  "img/client_5.jpeg": {
+    "src": "/assets/img/client_5.jpeg.webp",
+    "width": 900,
+    "height": 450
+  },
+  "img/client_6.jpeg": {
+    "src": "/assets/img/client_6.jpeg.webp",
+    "width": 574,
+    "height": 446
+  },
+  "img/client_6.png": {
+    "src": "/assets/img/client_6.png.webp",
+    "width": 567,
+    "height": 440
+  }
+}

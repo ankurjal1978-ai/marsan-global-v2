@@ -1,0 +1,177 @@
+[
+  {
+    "id": "home",
+    "url": "/",
+    "title": "Full-Lifecycle GCC Partner",
+    "description": "20+ GCC services under a single contract. From readiness assessment to GCC-as-a-Service — we are the only partner built to cover the complete lifecycle.",
+    "sourceText": 4595
+  },
+  {
+    "id": "about",
+    "url": "/about",
+    "title": "A Problem WeLived Firsthand",
+    "description": "MarSan Global was born from frustration. Our founders spent years inside Fortune 500 companies watching the same pattern: enterprises would engage one consul",
+    "sourceText": 6331
+  },
+  {
+    "id": "services",
+    "url": "/services",
+    "title": "Six Pillars. 20+ Services. One Partner.",
+    "description": "Every capability your GCC needs — from first conversation to full-scale optimization. Select a pillar below to explore the services within.",
+    "sourceText": 1108
+  },
+  {
+    "id": "insights",
+    "url": "/insights",
+    "title": "GCC Insights",
+    "description": "Our annual report on India's GCC ecosystem — market sizing, talent trends, city comparisons, and 5-year forecast.",
+    "sourceText": 3066
+  },
+  {
+    "id": "contact",
+    "url": "/contact",
+    "title": "Let's Build YourIndia Strategy",
+    "description": "Book a complimentary 30-minute strategy session. No pitch — just an honest conversation about whether India is the right move for your organization.",
+    "sourceText": 2312
+  },
+  {
+    "id": "privacy",
+    "url": "/privacy-policy",
+    "title": "Privacy Policy",
+    "description": "We collect information you voluntarily provide when you contact us, subscribe to our newsletter, or use our services. This includes your name, email address,",
+    "sourceText": 2332
+  },
+  {
+    "id": "terms",
+    "url": "/terms-and-conditions",
+    "title": "Terms & Conditions",
+    "description": "By accessing or using the MarSan Global website (marsan-global.com), you agree to be bound by these Terms & Conditions. If you do not agree to any part of th",
+    "sourceText": 2407
+  },
+  {
+    "id": "pillar-strategy",
+    "url": "/services/strategy-advisory",
+    "title": "Strategy & Advisory",
+    "description": "Before you commit capital, commit to clarity. Our strategy practice helps enterprises evaluate whether a GCC is the right move, where to build it, how to str",
+    "sourceText": 3961
+  },
+  {
+    "id": "pillar-build",
+    "url": "/services/build-launch",
+    "title": "GCC Build",
+    "description": "From legal entity to fully operational center — we handle the entire build process. Entity incorporation, regulatory compliance, IT infrastructure, workspace",
+    "sourceText": 2967
+  },
+  {
+    "id": "pillar-operate",
+    "url": "/services/operate-run",
+    "title": "GCC Operate",
+    "description": "Not ready to incorporate? Start operating in India within weeks through our managed GCC and EOR services. Full HR operations, payroll, benefits, and faciliti",
+    "sourceText": 3121
+  },
+  {
+    "id": "pillar-transform",
+    "url": "/services/transform",
+    "title": "GCC Transform",
+    "description": "Already outsourcing to India? Transition from vendor dependency to enterprise ownership. We manage the entire migration — people, processes, IP, and relation",
+    "sourceText": 3208
+  },
+  {
+    "id": "pillar-scale",
+    "url": "/services/scale-expand",
+    "title": "GCC Scale",
+    "description": "Growing from 50 to 500 requires different playbooks than going from 0 to 50. Volume hiring, leadership recruitment, AI/GenAI practice setup, and multi-site e",
+    "sourceText": 3482
+  },
+  {
+    "id": "pillar-optimize",
+    "url": "/services/optimize",
+    "title": "GCC Optimize",
+    "description": "Your GCC is running. Now make it exceptional. Performance benchmarking, cost optimization, employee engagement, and maturity assessment — we help established",
+    "sourceText": 3465
+  },
+  {
+    "id": "blog-1",
+    "url": "/insights/india-gcc-landscape-2026",
+    "title": "India GCC Landscape 2026: The $70B Opportunity",
+    "description": "Our annual report on India's GCC ecosystem — market sizing, talent trends, city comparisons, and 5-year forecast.",
+    "sourceText": 5154
+  },
+  {
+    "id": "blog-2",
+    "url": "/insights/build-operate-transfer-playbook",
+    "title": "The Build-Operate-Transfer Playbook",
+    "description": "A step-by-step guide to designing, executing, and transferring a high-performing offshore team in India.",
+    "sourceText": 4690
+  },
+  {
+    "id": "blog-3",
+    "url": "/insights/eor-fastest-path-india-hiring",
+    "title": "Why EOR Is the Fastest Path to India Hiring",
+    "description": "For companies not ready to incorporate, Employer of Record offers speed, compliance, and flexibility.",
+    "sourceText": 3810
+  },
+  {
+    "id": "blog-4",
+    "url": "/insights/vendor-to-gcc-migration",
+    "title": "Vendor-to-GCC Migration: A 12-Month Blueprint",
+    "description": "How Fortune 500 companies are moving from Accenture, Infosys, and TCS to enterprise-owned capability centers.",
+    "sourceText": 2999
+  },
+  {
+    "id": "blog-5",
+    "url": "/insights/top-10-cities-gcc-india-2026",
+    "title": "Top 10 Cities for GCC Setup in India: 2026 Rankings",
+    "description": "Data-driven city rankings across talent density, cost, infrastructure, and quality of life for GCC leaders.",
+    "sourceText": 2661
+  },
+  {
+    "id": "blog-6",
+    "url": "/insights/ai-transforming-gcc-operations",
+    "title": "How AI Is Transforming GCC Operations in 2026",
+    "description": "From intelligent hiring to automated compliance — the AI capabilities every modern GCC should integrate from day one.",
+    "sourceText": 2811
+  },
+  {
+    "id": "blog-7",
+    "url": "/insights/gcc-cost-optimization",
+    "title": "GCC Cost Optimization: Beyond the Obvious Levers",
+    "description": "The second-order cost savings that most GCC operators miss — from procurement to talent structure.",
+    "sourceText": 2327
+  },
+  {
+    "id": "blog-8",
+    "url": "/insights/gcc-leadership-hiring-crisis",
+    "title": "The GCC Leadership Hiring Crisis — And How to Solve It",
+    "description": "Why 60% of GCC Head searches take 6+ months, and the frameworks that cut that timeline in half.",
+    "sourceText": 2541
+  },
+  {
+    "id": "blog-9",
+    "url": "/insights/cost-center-to-innovation-hub",
+    "title": "From Cost Center to Innovation Hub: The GCC Evolution",
+    "description": "The three stages of GCC maturity, and why most organizations get stuck at stage two.",
+    "sourceText": 2589
+  },
+  {
+    "id": "blog-10",
+    "url": "/insights/compliance-pitfalls-india-setup",
+    "title": "Compliance Pitfalls: What Foreign Entities Must Know Before Setting Up in India",
+    "description": "The 10 most common compliance mistakes multinational companies make when establishing an India presence.",
+    "sourceText": 2803
+  },
+  {
+    "id": "blog-11",
+    "url": "/insights/genai-center-of-excellence-gcc",
+    "title": "Building a GenAI Center of Excellence Inside Your GCC",
+    "description": "Team structures, technology stacks, and governance frameworks for enterprise-grade GenAI capabilities.",
+    "sourceText": 2958
+  },
+  {
+    "id": "blog-12",
+    "url": "/insights/fortune-500-beyond-outsourcing",
+    "title": "Why Fortune 500 Companies Are Moving Beyond Outsourcing",
+    "description": "The structural shift from outsourced operations to enterprise-owned GCCs — and what it means for the next decade.",
+    "sourceText": 3044
+  }
+]

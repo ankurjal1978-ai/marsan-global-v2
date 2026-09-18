@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.next-dev/
+.vercel/
+.env*
+!.env.example
+*.tsbuildinfo
+reports/*.png
+reports/*.html
+reports/*.json
+!reports/qa-summary.json
